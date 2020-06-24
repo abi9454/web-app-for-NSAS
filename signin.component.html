@@ -1,0 +1,30 @@
+	<div id="limiter" class ="signin-container">
+		<div class="container-login100" style="background-image: url('..\assets\bg-01.jpg');">
+			<div class="wrap-login100">
+				<form class="login100-form validate-form">
+					<span class="login100-form-logo">
+						<i class="zmdi zmdi-landscape"></i>
+					</span>
+
+					<span class="login100-form-title p-b-34 p-t-27">
+						Welcome to NSAS
+					</span> 
+					<div class="container-login100-form-btn">
+						<a class="login100-form-btn" (click)="loginWithGoogle()">
+							<img class="login100-form-btn-img" src="../../assets/img/icon-google.png" alt="GOOGLE">
+							Sign In
+						</a>
+					</div>
+					<div class="w-full text-center p-t-55">
+							<span class="txt2">
+								Not a member?
+							</span>
+	
+							<a [routerLink]="['/register']" class= "txt2 bo1" (click)="navigateToRegisterPage()">
+								Sign up now
+							</a>
+						</div>
+				</form>
+			</div>
+		</div>
+	</div>
