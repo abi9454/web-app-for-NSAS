@@ -1,0 +1,42 @@
+C:\Users\Abhishek\source\repos\NSAS\NSAS\bin\Debug\netcoreapp2.1\NSAS.deps.json
+C:\Users\Abhishek\source\repos\NSAS\NSAS\bin\Debug\netcoreapp2.1\NSAS.runtimeconfig.json
+C:\Users\Abhishek\source\repos\NSAS\NSAS\bin\Debug\netcoreapp2.1\NSAS.runtimeconfig.dev.json
+C:\Users\Abhishek\source\repos\NSAS\NSAS\bin\Debug\netcoreapp2.1\NSAS.dll
+C:\Users\Abhishek\source\repos\NSAS\NSAS\obj\Debug\netcoreapp2.1\NSAS.csprojAssemblyReference.cache
+C:\Users\Abhishek\source\repos\NSAS\NSAS\obj\Debug\netcoreapp2.1\NSAS.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek\source\repos\NSAS\NSAS\obj\Debug\netcoreapp2.1\NSAS.RazorAssemblyInfo.cache
+C:\Users\Abhishek\source\repos\NSAS\NSAS\obj\Debug\netcoreapp2.1\NSAS.RazorAssemblyInfo.cs
+C:\Users\Abhishek\source\repos\NSAS\NSAS\obj\Debug\netcoreapp2.1\NSAS.AssemblyInfoInputs.cache
+C:\Users\Abhishek\source\repos\NSAS\NSAS\obj\Debug\netcoreapp2.1\NSAS.AssemblyInfo.cs
+C:\Users\Abhishek\source\repos\NSAS\NSAS\obj\Debug\netcoreapp2.1\NSAS.RazorTargetAssemblyInfo.cache
+C:\Users\Abhishek\source\repos\NSAS\NSAS\bin\Debug\netcoreapp2.1\NSAS.pdb
+C:\Users\Abhishek\source\repos\NSAS\NSAS\obj\Debug\netcoreapp2.1\NSAS.dll
+C:\Users\Abhishek\source\repos\NSAS\NSAS\obj\Debug\netcoreapp2.1\NSAS.pdb
+C:\Users\Abhishek\Documents\285_02-Fall-2018---Group-6\NSAS API\NSAS\bin\Debug\netcoreapp2.1\NSAS.deps.json
+C:\Users\Abhishek\Documents\285_02-Fall-2018---Group-6\NSAS API\NSAS\bin\Debug\netcoreapp2.1\NSAS.runtimeconfig.json
+C:\Users\Abhishek\Documents\285_02-Fall-2018---Group-6\NSAS API\NSAS\bin\Debug\netcoreapp2.1\NSAS.runtimeconfig.dev.json
+C:\Users\Abhishek\Documents\285_02-Fall-2018---Group-6\NSAS API\NSAS\bin\Debug\netcoreapp2.1\NSAS.dll
+C:\Users\Abhishek\Documents\285_02-Fall-2018---Group-6\NSAS API\NSAS\bin\Debug\netcoreapp2.1\NSAS.pdb
+C:\Users\Abhishek\Documents\285_02-Fall-2018---Group-6\NSAS API\NSAS\obj\Debug\netcoreapp2.1\NSAS.csprojAssemblyReference.cache
+C:\Users\Abhishek\Documents\285_02-Fall-2018---Group-6\NSAS API\NSAS\obj\Debug\netcoreapp2.1\NSAS.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek\Documents\285_02-Fall-2018---Group-6\NSAS API\NSAS\obj\Debug\netcoreapp2.1\NSAS.RazorAssemblyInfo.cache
+C:\Users\Abhishek\Documents\285_02-Fall-2018---Group-6\NSAS API\NSAS\obj\Debug\netcoreapp2.1\NSAS.RazorAssemblyInfo.cs
+C:\Users\Abhishek\Documents\285_02-Fall-2018---Group-6\NSAS API\NSAS\obj\Debug\netcoreapp2.1\NSAS.AssemblyInfoInputs.cache
+C:\Users\Abhishek\Documents\285_02-Fall-2018---Group-6\NSAS API\NSAS\obj\Debug\netcoreapp2.1\NSAS.AssemblyInfo.cs
+C:\Users\Abhishek\Documents\285_02-Fall-2018---Group-6\NSAS API\NSAS\obj\Debug\netcoreapp2.1\NSAS.RazorTargetAssemblyInfo.cache
+C:\Users\Abhishek\Documents\285_02-Fall-2018---Group-6\NSAS API\NSAS\obj\Debug\netcoreapp2.1\NSAS.dll
+C:\Users\Abhishek\Documents\285_02-Fall-2018---Group-6\NSAS API\NSAS\obj\Debug\netcoreapp2.1\NSAS.pdb
+C:\Users\Sugyan Subedi\Documents\285_02-Fall-2018---Group-6\NSAS API\NSAS\bin\Debug\netcoreapp2.1\NSAS.deps.json
+C:\Users\Sugyan Subedi\Documents\285_02-Fall-2018---Group-6\NSAS API\NSAS\bin\Debug\netcoreapp2.1\NSAS.runtimeconfig.json
+C:\Users\Sugyan Subedi\Documents\285_02-Fall-2018---Group-6\NSAS API\NSAS\bin\Debug\netcoreapp2.1\NSAS.runtimeconfig.dev.json
+C:\Users\Sugyan Subedi\Documents\285_02-Fall-2018---Group-6\NSAS API\NSAS\bin\Debug\netcoreapp2.1\NSAS.dll
+C:\Users\Sugyan Subedi\Documents\285_02-Fall-2018---Group-6\NSAS API\NSAS\bin\Debug\netcoreapp2.1\NSAS.pdb
+C:\Users\Sugyan Subedi\Documents\285_02-Fall-2018---Group-6\NSAS API\NSAS\obj\Debug\netcoreapp2.1\NSAS.csprojAssemblyReference.cache
+C:\Users\Sugyan Subedi\Documents\285_02-Fall-2018---Group-6\NSAS API\NSAS\obj\Debug\netcoreapp2.1\NSAS.csproj.CoreCompileInputs.cache
+C:\Users\Sugyan Subedi\Documents\285_02-Fall-2018---Group-6\NSAS API\NSAS\obj\Debug\netcoreapp2.1\NSAS.RazorAssemblyInfo.cache
+C:\Users\Sugyan Subedi\Documents\285_02-Fall-2018---Group-6\NSAS API\NSAS\obj\Debug\netcoreapp2.1\NSAS.RazorAssemblyInfo.cs
+C:\Users\Sugyan Subedi\Documents\285_02-Fall-2018---Group-6\NSAS API\NSAS\obj\Debug\netcoreapp2.1\NSAS.AssemblyInfoInputs.cache
+C:\Users\Sugyan Subedi\Documents\285_02-Fall-2018---Group-6\NSAS API\NSAS\obj\Debug\netcoreapp2.1\NSAS.AssemblyInfo.cs
+C:\Users\Sugyan Subedi\Documents\285_02-Fall-2018---Group-6\NSAS API\NSAS\obj\Debug\netcoreapp2.1\NSAS.RazorTargetAssemblyInfo.cache
+C:\Users\Sugyan Subedi\Documents\285_02-Fall-2018---Group-6\NSAS API\NSAS\obj\Debug\netcoreapp2.1\NSAS.dll
+C:\Users\Sugyan Subedi\Documents\285_02-Fall-2018---Group-6\NSAS API\NSAS\obj\Debug\netcoreapp2.1\NSAS.pdb

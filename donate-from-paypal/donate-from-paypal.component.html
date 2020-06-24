@@ -1,0 +1,3 @@
+<input type="number" placeholder="Amount to Donate" [(ngModel)]="finalAmount" style="padding-bottom: 20px;">
+<h2 *ngIf="paypalLoad">Paypal button is loading</h2>
+<div id="paypal-checkout-button"></div>

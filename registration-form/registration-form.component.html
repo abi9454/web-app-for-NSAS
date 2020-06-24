@@ -1,0 +1,33 @@
+<!-- multistep form -->
+<div class="register-container">
+  <!-- multistep form -->
+  <form id="msform">
+    <!-- progressbar -->
+    <ul id="progressbar">
+      <li class="active">Account Setup</li>
+      <li>Personal Details</li>
+    </ul>
+    <!-- fieldsets -->
+    <fieldset>
+
+      <h2 class="fs-title">Create your account</h2>
+      <h3 class="fs-subtitle">Please provide your gmail</h3>
+      <input type="text" name="email" placeholder="Email" [(ngModel)]="Model.Email" #email="ngModel" required />
+      <!-- <input type="text" name="wNumber" placeholder="W#" /> -->
+      <input type="text" name="phone" placeholder="Phone Number" [(ngModel)]="Model.PhoneNumber" #phoneNumber="ngModel"
+        required />
+      <input type="button" name="next" class="next action-button" value="Next" />
+    </fieldset>
+    <fieldset>
+      <h2 class="fs-title">Personal Details</h2>
+      <h3 class="fs-subtitle">We will never sell it</h3>
+      <input type="text" name="fname" placeholder="First Name" [(ngModel)]="Model.FirstName" #firstName="ngModel"
+        required />
+      <input type="text" name="lname" placeholder="Last Name" [(ngModel)]="Model.LastName" #lastName="ngModel" required />
+      <input type="button" name="previous" class="previous action-button" value="Previous" />
+      <a routelink='/login'>
+      <input type="submit" name="submit" class="submit action-button" value="Submit" (click)="register()"/>
+      </a>
+    </fieldset>
+  </form>
+</div>
